@@ -1,0 +1,10 @@
+.product-card__type {
+  font-size: 12px;
+  color: #a5a5a5ff;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 8px;
+}
